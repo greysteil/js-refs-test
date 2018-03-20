@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"etag@https://github.com/jshttp/etag#e9576b5":
-  version "1.8.0"
-  resolved "https://github.com/jshttp/etag#e9576b5a1454425a81f0b0d5016677fa3def0985"
+etag@^1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
