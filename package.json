@@ -1,0 +1,10 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "Testing Dependabot",
+    "main": "index.js",
+    "author": "Grey",
+    "dependencies": {
+        "etag": "https://github.com/jshttp/etag#e9576b5"
+    }
+}
